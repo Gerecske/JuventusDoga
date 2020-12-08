@@ -1,0 +1,7 @@
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\bin\Debug\Juventus_Szilágyi.exe.config
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\bin\Debug\Juventus_Szilágyi.exe
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\bin\Debug\Juventus_Szilágyi.pdb
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\obj\Debug\Juventus_Szilágyi.csprojAssemblyReference.cache
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\obj\Debug\Juventus_Szilágyi.csproj.CoreCompileInputs.cache
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\obj\Debug\Juventus_Szilágyi.exe
+C:\Users\szilg\source\repos\Juventus_Szilágyi\Juventus_Szilágyi\obj\Debug\Juventus_Szilágyi.pdb
